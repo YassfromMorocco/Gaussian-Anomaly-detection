@@ -1,5 +1,5 @@
 # Gaussian-Anomaly-detection
-Method for anomaly detection using normal law
+Method for anomaly detection using normal law.
 
 I use this method to detect anomalies from sensor used on vehicle.
 
